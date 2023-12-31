@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey, I'm Mithran, an avid coder adventuring in software realms. My code is a canvas, weaving logic and creativity into unique, efficient solutions.<br><br><br><br>
+Hey, I'm Mithran, an avid coder adventuring in software realms. My code is a canvas, weaving logic and creativity into unique, efficient solutions.<br><br><br>
 
 
 ## 🌐 Socials:
