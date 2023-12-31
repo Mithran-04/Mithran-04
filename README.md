@@ -16,6 +16,6 @@ Hey, I'm Mithran, an avid coder adventuring in software realms. My code is a can
 ![](https://github-profile-trophy.vercel.app/?username=Mithran-04&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Mithran-04&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
